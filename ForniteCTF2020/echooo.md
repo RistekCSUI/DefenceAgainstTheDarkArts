@@ -15,9 +15,6 @@ Program ini akan melakukan command terminal echo pada setiap input yang kamu ber
 Flag ada di ./flag.txt.
 `nc 103.136.18.212 1197`
 
-## Hints
-* 
-
 ## Tags
 Misc, bashjail
 
